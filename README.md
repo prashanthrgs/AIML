@@ -12,7 +12,6 @@ Projects Done:
 6. Recommendation Systems
 7. Neural Networks
 8. Computer Vision
-9. Advanced Computer Vision
-10. Statistical Natural Language Processing
-11. Sequential Natural Language Processing
+9. Natural Language Processing
+
     
